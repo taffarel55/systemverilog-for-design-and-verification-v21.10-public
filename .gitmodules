@@ -1,0 +1,3 @@
+[submodule "restricted-files"]
+	path = restricted-files
+	url = git@github.com:taffarel55/systemverilog-for-design-and-verification-v21.10-private.git
